@@ -1,0 +1,43 @@
+button
+{
+    width: 500px;
+    color: #00A555;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+table
+{
+    border: solid black 1px ;
+    width: 500px;
+    height: 500px;
+}
+
+td
+{
+    border: solid black 1px ;
+    background-color: #62FFB3;
+}
+
+#Resultados
+{
+    float: right;
+    padding-right: 120px;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+#error
+{
+    color: #FF0000;
+}
+
+#ganador
+{
+    color: #0174b7;
+}
+
+.clic_error
+{
+    background-color: red;
+}
